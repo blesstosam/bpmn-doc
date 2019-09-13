@@ -3,7 +3,7 @@ const utils = require('./utils')
 module.exports = {
   title: `Blesstosam's blog`,
   description: `Blesstosam's blog`,
-  // base: '/awesome-bookmarks/',
+  base: '/github-blog/',
   head: [
     [
       'link',
